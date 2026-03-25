@@ -27,6 +27,10 @@ Run `PB_CI_Normal_comparison.r` to generate the compared CI results in `estimate
 
 Run `PB_CI_Normal_ADI.r` for our CI results in `estimates/paramboot_normal_meansd-clamp_0_3-gdp_mu=1-conf=0.95-N=100-nSIM=1000-R=50-B=200-seed=0.adaptive_indirect.csv`.
 
+Run `Repro_Normal_DepthRegion_GDP.R` to generate the confidence set results for Repro.
+
+Run `PB_CI_Normal_ADI_multivar.r` to generate the confidence ellipses via ADI.
+
 ## Figure 5: Comparison of the rejection probability on linear regression coefficient
 Go to the folder `./Figure5`.
 
