@@ -1,4 +1,4 @@
-This code accompanies the paper "Optimal Debiased Inference on Privatized Data \\via Indirect Estimation and Parametric Bootstrap" by Zhanyu Wang, Arin Chang, and Jordan Awan
+This code accompanies the paper "Optimal Debiased Inference on Privatized Data via Indirect Estimation and Parametric Bootstrap" by Zhanyu Wang, Arin Chang, and Jordan Awan
 
 # Introduction
 The code is for the paper 'Optimal Debiased Inference on Privatized Data
